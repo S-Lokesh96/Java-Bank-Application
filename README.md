@@ -7,4 +7,4 @@
 - [Usage](#usage)
 
 ## Installation
-```bash 
+```bash
